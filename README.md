@@ -1,2 +1,2 @@
-# speed-testing-of-car
-new game
+# p5.play-boilerplate
+Boiler plate for p5.play
